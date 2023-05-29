@@ -25,7 +25,7 @@
     ### meltano select tap-pokeapi pokemon name
     ### meltano select tap-pokeapi pokemon moves
 11. Added CSV loader:
-    ### meltano add loader target-csv --variant=meltano
+    ### meltano add loader target-csv --variant meltanolabs
 12. Verifying the yml file:
     ### cat meltano.yml
 14. Running the extractor loader flow:
