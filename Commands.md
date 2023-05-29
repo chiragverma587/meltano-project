@@ -21,7 +21,7 @@
     ### meltano config tap-pokeapi set --interactive
 9. Specified pokemon name in “airbyte_config.pokemon_name” as "ivysaur"
 10. Selecting the columns to be retrieved:
-    ### meltano select tap-github --list --all
+    ### meltano select tap-pokeapi --list --all
     ### meltano select tap-pokeapi pokemon name
     ### meltano select tap-pokeapi pokemon moves
 11. Added CSV loader:
