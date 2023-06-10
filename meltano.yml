@@ -27,6 +27,7 @@ plugins:
     select:
     - pokemon.moves
     - pokemon.name
+    - pokemon.*
   loaders:
   - name: target-jsonl
     variant: andyh1203
