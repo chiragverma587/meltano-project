@@ -1,3 +1,5 @@
+This is a meltano project for integration of tap-pokeapi and target csv.
+Commands used in this project are:
 1. Launched EC2 instance with Linux and done the configuration.
 2. Installing python,pip and git:
     ### sudo yum install python
